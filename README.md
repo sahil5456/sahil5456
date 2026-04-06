@@ -1,63 +1,58 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Sahil Patel</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Web+Dev;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=PHP+Web+Developer;Full+Stack+Learner;Intern+@+Disha+Infosys;Building+Real+World+Projects" />
 </h3>
 
 ---
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Web-HTML5-red?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/Web-CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Web-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-</p>
-
----
-
 ## 👨‍💻 About Me
-- 💻 Full Stack Developer  
-- 🚀 Love building real-world applications  
-- 🌱 Currently learning **Advanced Backend & System Design**  
-- 🤝 Open for internships & collaborations  
-- ⚡ Believe in *clean code & continuous improvement*  
+- 💼 PHP Developer Intern at **Disha Infosys (Surat)**
+- 🌐 Working on real-world web applications & CMS systems  
+- 📚 Self-learner passionate about web development  
+- 🚀 Currently improving backend & full-stack skills  
+- 🤝 Open for internships & freelance opportunities  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-### 🌐 Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-### 🔧 Backend & DB
-![Spring](https://skillicons.dev/icons?i=spring)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,bootstrap,mysql" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 💼 Work Experience
 
-### 📚 MySQL Bookshop API
-- 🔹 REST API using Spring Boot  
-- 🔹 MySQL database integration  
-- 🔹 Tested using Postman  
+### 🏢 PHP Developer Intern — Disha Infosys
+📍 Surat, Gujarat (2023 - Present)
 
-### 🌐 Coastal Granite Website
-- 🔹 Responsive business website  
-- 🔹 Built with HTML, CSS, JavaScript  
+- Worked on **live MVS software projects**
+- Developed and maintained **CMS (Class Management System)**
+- Hands-on experience with real client projects  
+- Improved backend logic and database handling  
+
+🔗 Projects:
+- http://mvs.org.in  
+- http://beta.mvs.org.in  
+- http://ntce.co.in  
+
+---
+
+## 📌 Projects
+
+### 📰 News Website
+- Pagination implementation  
+- Dynamic content loading  
+
+### 🔄 CRUD Application
+- Add, edit, delete data  
+- Database integration  
+
+### 🔐 Registration Form with API
+- API integration  
+- Web + app connectivity  
 
 ---
 
@@ -70,23 +65,29 @@
 
 ---
 
+## 🎓 Education
+- 🎓 Bachelor of Commerce — Veer Narmad South Gujarat University  
+- 💻 Web Development Training — NTCE Computer  
+
+---
+
+## 🏆 Achievements
+- Completed **Programming Course (C, C++, Java, DSA basics)** at NTCE  
+
+---
+
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-patel-a354032a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Patel-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:sahilkishorpatel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/sahil5456">
+    <img src="https://img.shields.io/badge/GitHub-sahil5456-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahil5456/sahil5456/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## ⚡ Fun Fact
-> I turn ☕ into code and ideas into real-world projects 🚀
+> I started with basics and now I'm building real-world applications 🚀
